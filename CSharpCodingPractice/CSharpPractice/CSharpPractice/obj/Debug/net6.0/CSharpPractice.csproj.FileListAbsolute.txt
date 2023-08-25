@@ -1,0 +1,15 @@
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.csproj.AssemblyReference.cache
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.AssemblyInfoInputs.cache
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.AssemblyInfo.cs
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.exe
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.deps.json
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.runtimeconfig.json
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.dll
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.pdb
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.dll
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\refint\CSharpPractice.dll
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.pdb
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.genruntimeconfig.cache
+C:\Personal Projects\CSharpCodingPractice\CSharpCodingPractice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\ref\CSharpPractice.dll
