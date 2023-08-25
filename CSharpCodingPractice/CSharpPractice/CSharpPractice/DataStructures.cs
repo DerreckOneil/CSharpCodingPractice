@@ -2,7 +2,7 @@
 
 public class DataStructures
 {
-    
+    /*
     public static void Main(string[]args)
     {
         Console.WriteLine("hello world");
@@ -13,6 +13,7 @@ public class DataStructures
         ListExample();
         DictionaryExample();
     }
+    */
 
 
 
