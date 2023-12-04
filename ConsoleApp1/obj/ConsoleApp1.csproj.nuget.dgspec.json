@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal Projects\\CSharpCodingPractice\\CSharpCodingPractice\\CSharpPractice\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Personal Projects\\CSharpCodingPractice\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Personal Projects\\CSharpCodingPractice\\CSharpCodingPractice\\CSharpPractice\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Personal Projects\\CSharpCodingPractice\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal Projects\\CSharpCodingPractice\\CSharpCodingPractice\\CSharpPractice\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Personal Projects\\CSharpCodingPractice\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Personal Projects\\CSharpCodingPractice\\CSharpCodingPractice\\CSharpPractice\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Personal Projects\\CSharpCodingPractice\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\oneil\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal Projects\\CSharpCodingPractice\\CSharpCodingPractice\\CSharpPractice\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Personal Projects\\CSharpCodingPractice\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oneil\\AppData\\Roaming\\NuGet\\NuGet.Config",

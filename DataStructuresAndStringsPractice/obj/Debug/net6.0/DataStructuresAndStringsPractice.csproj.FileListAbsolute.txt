@@ -1,0 +1,15 @@
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\bin\Debug\net6.0\DataStructuresAndStringsPractice.exe
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\bin\Debug\net6.0\DataStructuresAndStringsPractice.deps.json
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\bin\Debug\net6.0\DataStructuresAndStringsPractice.runtimeconfig.json
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\bin\Debug\net6.0\DataStructuresAndStringsPractice.dll
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\bin\Debug\net6.0\DataStructuresAndStringsPractice.pdb
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.csproj.AssemblyReference.cache
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.AssemblyInfoInputs.cache
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.AssemblyInfo.cs
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.csproj.CoreCompileInputs.cache
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.dll
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\refint\DataStructuresAndStringsPractice.dll
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.pdb
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\DataStructuresAndStringsPractice.genruntimeconfig.cache
+C:\Personal Projects\CSharpCodingPractice\DataStructuresAndStringsPractice\obj\Debug\net6.0\ref\DataStructuresAndStringsPractice.dll
